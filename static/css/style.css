@@ -93,3 +93,20 @@ iframe{
     color: crimson;
     text-align: center;
 }
+
+#CON{
+    background-color: aqua;
+    text-transform: uppercase;
+    color: crimson;
+    text-align: center;
+}
+#BOL{
+    text-align: center;
+    text-decoration: solid;
+    text-transform: uppercase;
+    border: 5px 5px 5px 5px;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 3px 3px 3px 3px;
+    padding: 30% 30% 30% 30%;
+    color: ghostwhite;
+}
